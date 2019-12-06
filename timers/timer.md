@@ -15,4 +15,4 @@ Prescaler (PSC) | Clock frequency divider | `1 - 0xFFFF (0 would disable counter
 - Low Power
 
 ## Basic Timer
-![Basic Timer Block Diagram](timers/resources/basic_timer_block_diagram.png)
+![Basic Timer Block Diagram](resources/basic_timer_block_diagram.png)
