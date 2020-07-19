@@ -33,3 +33,13 @@
 
 # Documents
 *.pdf
+
+*.bin
+*.elf
+*.hex
+*.map
+*.lst
+*.idx
+
+**/*/compile_commands.json
+**/*.ipynb_checkpoints/*
