@@ -43,3 +43,7 @@
 
 **/*/compile_commands.json
 **/*.ipynb_checkpoints/*
+
+.settings
+.mxproject
+.vscode
